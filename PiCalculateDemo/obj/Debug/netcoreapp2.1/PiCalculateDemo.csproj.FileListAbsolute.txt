@@ -1,0 +1,15 @@
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.csproj.CoreCompileInputs.cache
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.AssemblyInfoInputs.cache
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.AssemblyInfo.cs
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\bin\Debug\netcoreapp2.1\PiCalculateDemo.deps.json
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\bin\Debug\netcoreapp2.1\PiCalculateDemo.runtimeconfig.json
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\bin\Debug\netcoreapp2.1\PiCalculateDemo.runtimeconfig.dev.json
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\bin\Debug\netcoreapp2.1\PiCalculateDemo.dll
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\bin\Debug\netcoreapp2.1\PiCalculateDemo.pdb
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.csprojAssemblyReference.cache
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.RazorAssemblyInfo.cache
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.RazorAssemblyInfo.cs
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.RazorTargetAssemblyInfo.cache
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.dll
+C:\Users\christian.klauenboes\source\repos\PiCalculateDemo\PiCalculateDemo\obj\Debug\netcoreapp2.1\PiCalculateDemo.pdb
